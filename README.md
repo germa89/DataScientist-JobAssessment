@@ -1,4 +1,5 @@
-# Take-home Assessment
+# Marketing Campaing Success prediction
+## Take-home Assessment
 Notebook submitted for a data scientist job application in a finance company.
 
 ## Description
